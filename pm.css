@@ -1,0 +1,23 @@
+
+.main h1
+{
+    z-index: 1;
+    font-size: 650%;
+    background-color: blue;
+    opacity: 0.3;
+    text-align: center;
+    margin-top: 95%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: bolder;
+    padding: 4%;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container video
+{
+    top: 0%;
+    width: 450%;
+    transform: translate(-35%,-5%);
+    position: absolute;
+}
